@@ -1,0 +1,14 @@
+layout_spectrum: 0.17795604234561324
+typography_spectrum: 0.49377218121662736
+color:
+  brandStrength: 0.5265282827895135
+  lightness: 0.287387250456959
+  saturation: 0.678971532266587
+  rhythmicContrast: 0.9142336959484965
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Red-Soft
